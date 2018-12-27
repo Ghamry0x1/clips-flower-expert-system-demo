@@ -25,3 +25,4 @@ Done for **CSE386: Artificial Intelligence** Course, at Faculty of Engineering, 
     `FlowerDemo.jar` file should be generated in the projects' root directory as a result.
 4. Run the `FlowerDemo.jar` file by double clicking on it, or simply by running the following command:
     >java -jar FlowerDemo.jar <br>
+    

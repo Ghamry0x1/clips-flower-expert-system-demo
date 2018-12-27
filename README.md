@@ -15,11 +15,14 @@ Done for **CSE386: Artificial Intelligence** Course, at Faculty of Engineering, 
   - Add `jdk/bin` to your environment path
 - Download [**MinGW**](https://sourceforge.net/projects/mingw/)
   - Follow [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) tutorial for installation
+- Download [**Chocolatey**](https://chocolatey.org/docs/installation)
+  - Install `make` package by running the following command:
+    >choco install make <br>
 
 ## Getting Started
 1. Clone this repo.
 2. Copy `CLIPSJNI.dll` file to `C:\Windows\System32`.
-3. Open a terminal in the repo folder and run the following commands:
+3. Open a **new** terminal in the repo folder and run the following commands:
     >make -f makefile.linux all <br>
     
     `FlowerDemo.jar` file should be generated in the projects' root directory as a result.

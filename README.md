@@ -14,7 +14,7 @@ Done for **CSE386: Artificial Intelligence** Course, at Faculty of Engineering, 
   - Install JDK and JRE
   - Add `jdk/bin` to your environment path
 - Download [**MinGW**](https://sourceforge.net/projects/mingw/)
-  - Follow ![this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) tutorial for installation
+  - Follow [this](https://www.youtube.com/watch?v=sXW2VLrQ3Bs) tutorial for installation
 
 ## Getting Started
 1. Clone this repo.
